@@ -1,4 +1,4 @@
-# Day 3 - Fashion-MNIST Image Classification using a CNN
+# Day 3 - Fashion-MNIST Image Classification using a CNN ( Aman )
 
 This project is a hands-on exercise to build, train, and evaluate a Convolutional Neural Network (CNN). The goal is to create a model that can accurately classify images from the Fashion-MNIST dataset into one of 10 different fashion categories.
 
